@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/77/c9/66/77c966ec93fa517fea9699973fe4a6b0.jpg)
+![MasterHead](https://i.pinimg.com/originals/77/c9/66/77c966ec93fa517fea9699973fe4a6b0.jpg)
 <h1 align="center">Olmaz#0 Goku</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokureal&label=Profile%20views&color=f50000&style=flat" alt="gokureal" /> </p>
 My Dc Account:
