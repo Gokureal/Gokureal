@@ -5,7 +5,7 @@ My Dc Account:
 src="https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="goku1real" /></a> </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokureal&label=Profile%20views&color=f50000&style=flat" alt="gokureal" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/3a1d48d2f68be4a547518d06177e77aecad34f844a44db361197def639c0c7ad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4572656e7a79" alt="gokureal" /> </p>
 
 
 
