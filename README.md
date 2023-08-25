@@ -1,7 +1,7 @@
 <h1 align="center">Olmaz#0 Goku</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokureal&label=Profile%20views&color=f50000&style=flat" alt="gokureal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/goku1real" target="blank"><img src="https://img.shields.io/twitter/follow/goku1real?logo=twitter&style=for-the-badge" alt="goku1real" /></a> </p>
+<p align="left"> <a href="https://discord.com/users/216367803647787013" target="blank"><img src="https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="goku1real" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
