@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/77/c9/66/77c966ec93fa517fea9699973fe4a6b0.jpg)
 <h1 align="center">Olmaz#0 Goku</h1>
 My Dc Account:
-<p align="left"> <a href="https://discord.com/users/216367803647787013" target="blank"><img 
+<p align="left"> <a href="https://discord.com/users/1137186935853564055" target="blank"><img 
 src="https://camo.githubusercontent.com/cfdb7a62449afe712e9eb92977cf8190acb14fb16e173e128eff89736e212a1e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642532302d3732383944412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="goku1real" /></a> </p>
 And my website:
 <p align="left"> <a href="https://goku.com.tr" target="blank"><img
